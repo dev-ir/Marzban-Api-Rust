@@ -24,7 +24,7 @@ Add to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-dvhost = { git = "https://github.com/your-repo/dvhost.git" }
+dvhost = { git = "https://github.com/dev-ir/Marzban-Api-Rust.git" }
 ```
 
 ## Usage
